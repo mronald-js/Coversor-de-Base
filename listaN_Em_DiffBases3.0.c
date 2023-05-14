@@ -184,8 +184,6 @@ int main(){
             break;
         }
     } while (continuar);
-    
-
 
     return 0;
 }

@@ -37,7 +37,6 @@ int converteN(int n, int base, char n_base[])
     return i;
 }
 
-
 void converteParaDecimal(mpz_t n_decimal, const char *n, int base)
 {
     mpz_set_ui(n_decimal, 0);
